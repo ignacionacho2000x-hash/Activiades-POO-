@@ -4,7 +4,7 @@ public class main3 {
         int edadPersonaA = 16;
         int nivelPersona = 12;
         boolean tieneMembresia = true;
-        int modoseleccionado = 1;
+        int modoseleccionado = 2;
         System.out.println("===Jugador===");
         System.out.println("Nombre: " + nombrePersona);
         System.out.println("Edad: " + edadPersonaA);
